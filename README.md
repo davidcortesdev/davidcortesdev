@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, Me llamo David Cortés</h1>
 <h3 align="center">Frontend Developer en crecimiento</h3>
 
-- 💬 Ask me about **HTML, CSS3, JavaScript, React**
+- 💬 Lenguajes principales: **HTML, CSS3, JavaScript, React**
 
-- 📫 How to reach me **davidcortes.dev@gmail.com**
+- 📫 Como contactarme: **davidcortes.dev@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contacta conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/david-cortés-lajara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david-cortés-lajara" height="30" width="40" /></a>
 </p>
