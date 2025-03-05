@@ -5,7 +5,7 @@
 
 - 📫 Como contactarme: **davidcortes.dev@gmail.com**
 
-<h3 align="left">Contacta conmigo:</h3>
+<h3 align="left">Me puedes encontrar en:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/david-cortés-lajara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david-cortés-lajara" height="30" width="40" /></a>
 </p>
